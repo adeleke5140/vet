@@ -1,0 +1,17 @@
+@import 'tailwindcss';
+
+body{
+  background-color: #fbfaf9;
+}
+
+@font-face {
+  font-family: 'PP Editorial New';
+  src: url("./assets/PPEditorialNew-Regular.ttf") format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+h1, h2, h3, h4, h5, h6{
+  font-family: 'PP Editoral New';
+}
